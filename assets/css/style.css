@@ -1,5 +1,7 @@
 header {
     background-color: white;
+    margin-bottom: 20px;
+    
     
 }
 
@@ -9,5 +11,39 @@ body {
 }
 
 h1 {
+    Background-color: #4aaaa5;
+    color: white;
+    width: 230px;
+    margin-left: 435px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    padding-right: 1px;
+}
+
+.container {
+    width: 66%;
+    margin: 0 auto;
+    background-color: white;
+
+
+}
+
+#links {
+    float: right;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     
+
 }
