@@ -44,6 +44,41 @@ h2 {
     margin-left: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+
 
 }
+
+#main-content {
+    border-top-color: lightgrey;
+    border-top-width: 2px;
+    border-style: solid;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+    
+}
+
+#content-image {
+    margin-top: 20px
+}
+
+p {
+
+}
+
+footer {
+    background-color: #666666;
+    position: fixed;
+    bottom: 0;
+    left 0;
+    width: 100%;
+    text-align: center;
+    color: lightgrey;
+    padding-bottom: 5px;
+    padding-top: 30px;
+    border-top-color: #4aaaa5;
+    border-style: solid;
+    border-top-width: 4px;
+    
+}
+
