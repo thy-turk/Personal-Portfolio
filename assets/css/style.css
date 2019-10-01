@@ -14,7 +14,7 @@ h1 {
     Background-color: #4aaaa5;
     color: white;
     width: 230px;
-    margin-left: 435px;
+    margin-left: 800px;
     padding-bottom: 30px;
     padding-top: 30px;
     margin-top: 0px;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .container {
-    width: 66%;
+    width: 960px;
     margin: 0 auto;
     background-color: white;
 
@@ -34,6 +34,7 @@ h1 {
 
 #links {
     float: right;
+    
 }
 
 h2 {
@@ -52,8 +53,10 @@ h2 {
     border-top-color: lightgrey;
     border-top-width: 2px;
     border-style: solid;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
     
     
 }
@@ -78,7 +81,59 @@ footer {
     padding-top: 30px;
     border-top-color: #4aaaa5;
     border-style: solid;
-    border-top-width: 4px;
+    border-top-width: 8px;
+}
+
+a {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+
+}
+
+#link-border {
+    border-style: solid;
+    border color: #777777;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+form {
+    margin-top: 30px;
+
+}
+
+.form-control {
+    width: 900px;
+    background: transparent;
+    
+    border-style: solid;
+    border-color: lightgray;
+    border=width: 1px;
+    
+    font-size: 16px;
+    margin-bottom: 16px;
+    margin-top: 10px;
     
 }
 
+input {
+    height: 45px;
+
+}
+
+form .submit {
+    background-color: #4aaaa5;
+    color: white;
+    width: 110px;
+    border: none;
+
+
+}
+
+.contact-labels {
+    font-size: 20px;
+}
