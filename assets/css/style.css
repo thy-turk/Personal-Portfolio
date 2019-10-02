@@ -35,6 +35,7 @@ h1 {
 #links {
     float: right;
     
+    
 }
 
 h2 {
@@ -93,12 +94,13 @@ a {
 
 #link-border {
     border-style: solid;
-    border color: #777777;
+    border-color: lightgray;
     border-left-width: 2px;
     border-right-width: 2px;
-    padding-left: 5px;
-    padding-right: 5px;
-
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 form {
