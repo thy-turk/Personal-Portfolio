@@ -23,6 +23,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left: 20px;
     padding-right: 1px;
+   
     
 }
 
@@ -37,9 +38,6 @@ h1 {
 
 #links {
     float: right;
-    
-    
-    
 }
 
 h2 {
@@ -149,4 +147,109 @@ form .submit {
     line-height: 40px;
     padding-bottom: 40px;
     
+}
+
+.header-header {
+    background-color: white;
+
+}
+
+.box-set {
+    position: relative;
+    width: 940px;
+    background: white;
+    height: 900px;
+  
+}
+
+.box {
+    position: absolute;
+}
+
+.box-1 {
+    top: 4%;
+    left: 2%;
+}
+
+.box-2 {
+    top: 4%;
+    left: 32%;
+    
+
+}
+
+.box-3 {
+    top: 27%;
+    left: 2%;
+}
+
+.box-4 {
+    top: 27%;
+    left: 32%;
+}
+
+.box-5 {
+    left: 2%;
+    top: 50%;
+
+}
+
+.box-set2 {
+    position: relative;
+    width: 940px;
+    height: 900px;
+}
+
+.box2 {
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    background: #4aaaa5;
+
+}
+
+.box-6 {
+    left: 2%;
+    top: -82%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+
+}
+
+.box-7 {
+    left: 32%;
+    top: -82%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.box-8 {
+    left: 2%;
+    top: -59%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.box-9 {
+    left: 32%;
+    top: -59%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.box-10 {
+    left: 2%;
+    top: -36%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
 }
