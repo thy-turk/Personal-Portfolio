@@ -1,7 +1,10 @@
 header {
     background-color: white;
     margin-bottom: 40px;
-    
+    padding-bottom: 55px;
+    border-style: solid;
+    border-bottom-color: lightgray;
+    border-bottom-width: 2px;
     
     
 }
@@ -16,13 +19,14 @@ h1 {
     color: white;
     width: 230px;
     margin-left: 25%;
-    padding-bottom: 30px;
+    padding-bottom: 35px;
     padding-top: 30px;
     margin-top: 0px;
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left: 20px;
     padding-right: 1px;
+    float: left;
    
     
 }
@@ -38,6 +42,10 @@ h1 {
 
 #links {
     float: right;
+    font-size: 18px;
+    margin-right: 480px;
+    padding-top: 20px;
+    
 }
 
 h2 {
@@ -149,10 +157,6 @@ form .submit {
     
 }
 
-.header-header {
-    background-color: white;
-
-}
 
 .box-set {
     position: relative;
